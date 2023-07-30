@@ -32,7 +32,7 @@ links:
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: SmartBearDermot
+    Username: Derminator_IE
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
@@ -230,7 +230,8 @@ links:
 
     # CUSTOM LINK
   - Name: Mastodon
-    URL: https://hachyderm.io/@derminator
+#    URL: https://hachyderm.io/@derminator
+    URL: https://sw-development-is.social/@derminator
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
