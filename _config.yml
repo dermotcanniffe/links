@@ -94,19 +94,19 @@ links:
 #   Color: '#006AFF'
 #   Icon-Class: fab fa-facebook-messenger
 
-#   # REDDIT
+##   # REDDIT
 # - Name: Reddit
 #   URL: http://reddit.com/u
 #   Username: harshtrivedi
 #   Color: '#FF4500'
 #   Icon-Class: fab fa-reddit-alien
 
-  #   # WHATSAPP
-  # - Name: WhatsApp
-  #   URL: https://wa.me
-  #   Username: '+1123456789'
-  #   Color: '#25d366'
-  #   Icon-Class: fab fa-whatsapp
+##     # WHATSAPP
+#   - Name: WhatsApp
+#     URL: https://wa.me
+#     Username: '+1123456789'
+#     Color: '#25d366'
+#     Icon-Class: fab fa-whatsapp
 
 #   # TELEGRAM
 # - Name: Telegram
